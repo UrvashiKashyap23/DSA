@@ -1,5 +1,5 @@
 //QUICK SORT : ADVANCED SORTING 
-public class PROBLEM1 {
+public class QUICK_SORT{
     public static int partition(int arr[], int low , int high) {
         int pivot = arr[high];
         int i = low - 1 ;
