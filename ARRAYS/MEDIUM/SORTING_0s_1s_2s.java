@@ -1,4 +1,4 @@
-package ARRAYS.MEDIUM;
+
 public class SORTING_0s_1s_2s {
     public static void main(String[] args) {
         int arr[] = {2,0,1,0,2};

@@ -1,4 +1,4 @@
-package ARRAYS.MEDIUM;
+
 public class LONGEST_SUBARRAY_HIGHEST_SUM {
     public static void main(String[] args) {
         int arr[] = {-2,-3,-7,-2,-10,-4,1};

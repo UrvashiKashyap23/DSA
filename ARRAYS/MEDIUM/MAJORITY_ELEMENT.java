@@ -1,4 +1,4 @@
-package ARRAYS.MEDIUM;
+
 import java.util.HashMap;
 
 public class MAJORITY_ELEMENT {
