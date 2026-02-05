@@ -1,3 +1,4 @@
+package BASICS;
 public  class MERGE_SORT{
     public static void conquer(int arr[] , int si , int mid , int ei) {
         int merged[] = new int[ei-si+1];

@@ -1,3 +1,4 @@
+package BASICS;
 //QUICK SORT : ADVANCED SORTING 
 public class QUICK_SORT{
     public static int partition(int arr[], int low , int high) {
